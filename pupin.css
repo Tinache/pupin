@@ -1,0 +1,79 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+color: rgb(31, 31, 228)
+
+}
+
+h2 {
+font-family:'Times New Roman', Times, serif;
+    color: rgb(96, 57, 134)
+}
+
+h3 {
+font-family: 'Times New Roman', Times, serif;
+    height: 10px;
+    color: rgb(165, 34, 56)
+}
+
+.content {
+font-family: 'Courier New', Courier, monospace;
+
+
+    color:rgb(52, 155, 187)
+
+    
+}
+
+#text1 {
+color: rgb(19, 35, 66);
+
+}
+
+#text2 {
+    color: rgb(33, 39, 51);
+    
+    }
+
+#text3 {
+    color: rgb(41, 66, 117);
+        
+    }
+
+#text4 {
+color: rgb(14, 54, 136);
+            
+}
+
+#text5 {
+color: rgb(23, 66, 151);
+                
+}
+
+
+#links {
+
+    height: 300px;
+    width: 600px;
+
+}
+
+a {
+    display: block;
+    padding: 5%;
+}
+
+.links {
+display: inline-block;
+height: 300px;
+width: 400px;
+border: 1px solid blue
+
+}"
+
+
+.pages {
+    display: inline-block;
+    height: 800px;
+    width: 600px;
+border: 1px solid blue
+}
